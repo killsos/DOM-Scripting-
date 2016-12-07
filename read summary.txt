@@ -1,0 +1,17 @@
+DHTML 是描述HTML CSS JavaScript技术组合的术语
+
+javascript 有三种对象
+用户自定义对象
+内建对象
+宿主对象
+
+元素节点 文本节点  属性节点
+
+getAttribute  setAttribute 只能用于元素节点  是DOM1中
+
+
+childNodes
+nodeName
+nodeType 1 元素  2 属性  3 文本
+nodeValue 文本节点值
+firstChild  lastChild 
